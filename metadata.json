@@ -1,0 +1,6 @@
+{
+  "name": "Michelle Atelier - Nail Tech Management & Studio Booking",
+  "description": "Luxury Nail Studio client-facing booking website & private nail tech business operating system with live catalog sync, appointment calendar, client history tracking, deposits, and inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
